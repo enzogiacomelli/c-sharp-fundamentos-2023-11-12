@@ -182,7 +182,7 @@ while (indice < quantidadeDesejada)
         menorKmPorLitro = kmPorLitro;
         modeloMenorKmPorLitro = modelo;
     }
-
+    
     Console.WriteLine("\n");
     indice++;
 
