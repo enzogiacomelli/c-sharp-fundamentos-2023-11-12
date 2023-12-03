@@ -32,6 +32,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CSharp11TratamentoExcecoes"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharp12TratamentoExcecoesComWhile", "CSharp12TratamentoExcecoesComWhile\CSharp12TratamentoExcecoesComWhile.csproj", "{D6C43F23-2844-47B3-8773-70341D673C53}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharp13OOMetodos", "CSharp13OOMetodos\CSharp13OOMetodos.csproj", "{1D7CC797-EA98-4BAD-8DBF-B90427F90ED3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -86,6 +88,10 @@ Global
 		{D6C43F23-2844-47B3-8773-70341D673C53}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D6C43F23-2844-47B3-8773-70341D673C53}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D6C43F23-2844-47B3-8773-70341D673C53}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1D7CC797-EA98-4BAD-8DBF-B90427F90ED3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D7CC797-EA98-4BAD-8DBF-B90427F90ED3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D7CC797-EA98-4BAD-8DBF-B90427F90ED3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D7CC797-EA98-4BAD-8DBF-B90427F90ED3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
