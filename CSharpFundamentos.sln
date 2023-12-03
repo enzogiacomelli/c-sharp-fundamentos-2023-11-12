@@ -24,11 +24,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CSharp07StringMetodos", "CS
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CSharp08While", "CSharp08While\CSharp08While.csproj", "{FB037FC1-AC36-4ADD-B916-3368EEC13B87}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharp09Arquivo", "CSharp09Arquivo\CSharp09Arquivo.csproj", "{E298A996-C0E6-4CFE-B943-26904E086CE0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CSharp09Arquivo", "CSharp09Arquivo\CSharp09Arquivo.csproj", "{E298A996-C0E6-4CFE-B943-26904E086CE0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharp10Vetores", "CSharp10Vetores\CSharp10Vetores.csproj", "{13AFD8F7-453E-4B35-A269-E51A2000DF4B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CSharp10Vetores", "CSharp10Vetores\CSharp10Vetores.csproj", "{13AFD8F7-453E-4B35-A269-E51A2000DF4B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharp11TratamentoExcecoes", "CSharp11TratamentoExcecoes\CSharp11TratamentoExcecoes.csproj", "{0E1CA43B-5B61-4E8F-8954-83C7C400C26B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CSharp11TratamentoExcecoes", "CSharp11TratamentoExcecoes\CSharp11TratamentoExcecoes.csproj", "{0E1CA43B-5B61-4E8F-8954-83C7C400C26B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharp12TratamentoExcecoesComWhile", "CSharp12TratamentoExcecoesComWhile\CSharp12TratamentoExcecoesComWhile.csproj", "{D6C43F23-2844-47B3-8773-70341D673C53}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -80,6 +82,10 @@ Global
 		{0E1CA43B-5B61-4E8F-8954-83C7C400C26B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0E1CA43B-5B61-4E8F-8954-83C7C400C26B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0E1CA43B-5B61-4E8F-8954-83C7C400C26B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D6C43F23-2844-47B3-8773-70341D673C53}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6C43F23-2844-47B3-8773-70341D673C53}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6C43F23-2844-47B3-8773-70341D673C53}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6C43F23-2844-47B3-8773-70341D673C53}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
