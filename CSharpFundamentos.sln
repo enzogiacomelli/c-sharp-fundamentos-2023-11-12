@@ -30,9 +30,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CSharp10Vetores", "CSharp10
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CSharp11TratamentoExcecoes", "CSharp11TratamentoExcecoes\CSharp11TratamentoExcecoes.csproj", "{0E1CA43B-5B61-4E8F-8954-83C7C400C26B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharp12TratamentoExcecoesComWhile", "CSharp12TratamentoExcecoesComWhile\CSharp12TratamentoExcecoesComWhile.csproj", "{D6C43F23-2844-47B3-8773-70341D673C53}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CSharp12TratamentoExcecoesComWhile", "CSharp12TratamentoExcecoesComWhile\CSharp12TratamentoExcecoesComWhile.csproj", "{D6C43F23-2844-47B3-8773-70341D673C53}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharp13OOMetodos", "CSharp13OOMetodos\CSharp13OOMetodos.csproj", "{1D7CC797-EA98-4BAD-8DBF-B90427F90ED3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CSharp13OOMetodos", "CSharp13OOMetodos\CSharp13OOMetodos.csproj", "{1D7CC797-EA98-4BAD-8DBF-B90427F90ED3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharp14For", "CSharp14For\CSharp14For.csproj", "{AABF0ED6-078F-4CDC-A877-EAA73B42C36C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -92,6 +94,10 @@ Global
 		{1D7CC797-EA98-4BAD-8DBF-B90427F90ED3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1D7CC797-EA98-4BAD-8DBF-B90427F90ED3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1D7CC797-EA98-4BAD-8DBF-B90427F90ED3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AABF0ED6-078F-4CDC-A877-EAA73B42C36C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AABF0ED6-078F-4CDC-A877-EAA73B42C36C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AABF0ED6-078F-4CDC-A877-EAA73B42C36C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AABF0ED6-078F-4CDC-A877-EAA73B42C36C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
